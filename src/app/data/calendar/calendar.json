@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title" : "All day Event",
+            "syear" : 2017,
+            "smonth": 2,
+            "sday": 10,
+            "end":null,
+            "starth": "13:00 PM",
+            "endh": "13:50 PM",
+            "asistants": ["5725a680b3249760ea21de78","5725a680b3249760ea21de52"]
+           
+        },
+        {
+            "id": 2,
+            "title" : "All day Event",
+            "syear" : 2017,
+            "smonth": 2,
+            "sday": 14,
+            "end":null,
+            "starth": "13:00 PM",
+            "endh": "13:50 PM",
+            "asistants": ["5725a680b3249760ea21de78","5725a6809fdd915739187ed5"]
+           
+        },
+        {
+            "id": 3,
+            "title" : "All day Event",
+            "syear" : 2017,
+            "smonth": 2,
+            "sday": 13,
+            "end":null,
+            "starth": "13:00 PM",
+            "endh": "13:50 PM",
+            "asistants": ["5725a6809fdd915739187ed5","5725a680b3249760ea21de52"]
+           
+        },
+        {
+            "id": 4,
+            "title" : "Evento de Juan",
+            "syear" : 2017,
+            "smonth": 2,
+            "sday": 25,
+            "end":null,
+            "starth": "13:00 PM",
+            "endh": "13:50 PM",
+            "asistants": ["5725a6809fdd915739187ed5","5725a680b3249760ea21de52"]
+           
+        }
+    ]
+}
